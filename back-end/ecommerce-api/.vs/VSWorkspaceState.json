@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\config",
+    "\\controllers",
+    "\\middlewares",
+    "\\model",
+    "\\routes",
+    "\\utils"
+  ],
+  "SelectedNode": "\\utils\\generateToken.js",
+  "PreviewInSolutionExplorer": false
+}
