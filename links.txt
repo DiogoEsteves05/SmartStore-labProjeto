@@ -1,4 +1,3 @@
 Links para deploys:
-BD - 
-BackEnd -
+BackEnd -https://ecommerce-api-6197.onrender.com/api/
 FrontEnd - 
